@@ -1,0 +1,18 @@
+{
+  "name": "total-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mdn <marco.denittis@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-core": "^1.0.2",
+    "apollo-server-module-graphiql": "^1.0.2",
+    "graphql": "^0.10.5",
+    "graphql-tools": "^1.1.0",
+    "total.js": "^2.7.0"
+  }
+}
